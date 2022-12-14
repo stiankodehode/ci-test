@@ -9,7 +9,7 @@ on:
 jobs:
 
   run-linters:
-    name: Run linters
+    name: Run ESlint
     runs-on: ubuntu-latest
 
     steps:
