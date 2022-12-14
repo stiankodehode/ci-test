@@ -5,4 +5,4 @@ const consoleArg = process.argv[2];
 // node index.js "argument here"
 
 console.log(consoleArg);
-console.log(consoleArg + "1"),
+console.log(consoleArg + "1")
